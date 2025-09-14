@@ -1,8 +1,8 @@
 Dieses Repository enthält den gesamten Code, die trainierten Modelle und die zugehörigen Daten für meine Bachelor-Thesis mit dem Titel "Quantitative vs. Qualitative Evaluation visueller Erklärungsverfahren für CNN-basierte Bildklassifikation".
 
-Ordnerstruktur 
+Ordnerstruktur:
 
-    /jupyter notebooks: Dieser Ordner beinhaltet alle Jupyter Notebooks, die im Rahmen der Arbeit erstellt wurden.
+    jupyter notebooks: Dieser Ordner beinhaltet alle Jupyter Notebooks, die im Rahmen der Arbeit erstellt wurden.
 
     trained_models.rar: Eine RAR-Datei, die alle final trainierten Modelle enthält. Die Modelle mussten aufgrund ihrer Größe für den GitHub-Upload komprimiert werden.
 
