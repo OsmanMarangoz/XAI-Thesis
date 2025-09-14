@@ -10,4 +10,5 @@ Ordnerstruktur:
 
   
 Alle notwendigen Python-Bibliotheken und deren exakte Versionen sind in der requirements.txt-Datei aufgelistet. Du kannst sie mit dem folgenden Befehl installieren:
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
